@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 About me **I am 22 years old. Currently pursuing my Master's in Computer Science from Cal State Fullerton.**
+- 💬 About me : I am **22 years** old. Currently pursuing my **Master's in Computer Science** from <a href = "https://www.fullerton.edu/">Cal State Fullerton</a>.
 
 - 📫 How to reach me **rachitsainii@csu.fullerton.edu**
 
