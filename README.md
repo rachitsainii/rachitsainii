@@ -10,11 +10,11 @@
 
 
 
-- 🌱 I’m currently learning **React Native**. Working on **CP** skills as well by trying to master **DSA in C++**.
+- 🌱 I’m currently learning **React and React Native**. Working on **CP** skills as well by trying to master **DSA in C++**.
 
-- 💬 About me : I am **22 years** old. Currently pursuing my **Master's in Computer Science** from <a href = "https://www.fullerton.edu/">Cal State Fullerton</a>.
+- 💬 About me : I am **24 years** old. Currently pursuing my **Master's in Computer Science** from <a href = "https://www.fullerton.edu/">Cal State Fullerton</a>.
 
-- 📫 How to reach me **rachitsainii@csu.fullerton.edu**
+- 📫 How to reach me **rachit4102k@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
