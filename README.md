@@ -1,38 +1,87 @@
-![HEADING](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Rachit Saini</h1>
-<h3 align="center">Coding my way through life's algorithmic challenges.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitsainii&label=Profile%20views&color=0e75b6&style=flat" alt="rachitsainii" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rachit_saini_" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_saini_?logo=twitter&style=for-the-badge" alt="rachit_saini_" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachitsainii" alt="rachitsainii" /></a> </p>
+<div align="center">
+  <h1>Hi 👋, I'm Rachit Saini </h1>
+</div>
 
 
 
-- 🌱 I’m currently learning **React and React Native**. Working on **CP** skills as well by trying to master **DSA in C++**.
+<div align="center" style="margin: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" style="max-width: 50%; height: auto; margin: auto; display: block;"/>
+</div>
 
-- 💬 About me : I am **24 years** old. Currently pursuing my **Master's in Computer Science** from <a href = "https://www.fullerton.edu/">Cal State Fullerton</a>.
 
-- 📫 How to reach me **rachit4102k@gmail.com**
+## About Me:
+- 🌱 I’m currently learning **React & React Native skills**.
+- MSCS from Cal State Fullerton (4/4 CGPA).
+- Aspiring Full Stack Developer (currently focusing on frontend development).🧑🏻‍💻
+- Enjoy listening podcasts , playing games 👾, and sports ⚽️.
+- I like photography as well 📸.
 
-<h3 align="center">Connect with me:</h3>
+## Skill Set:
+
+<table>
+<tr>
+<td valign="top" width="25%">
+Frontend  
+<a href="https://github.com/rachitsaini">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td>
+<td valign="top" width="25%">
+Languages
+<a href="https://github.com/rachitsaini">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" /> 
+</div>
+</a>
+</td>
+<td valign="top" width="25%">
+Others
+<a href="https://github.com/rachitsaini">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode&perline=4" /> 
+</div>
+</a>
+</td>
+</tr>
+</table>
+
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/rachitsaini/" target="_blank"><img src="https://img.shields.io/badge/-Rachit%20Saini-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:sainii.rachit@gmail.com"><img src="https://img.shields.io/badge/-sainii.rachit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/rachit-saini/" target="_blank"><img src="https://img.shields.io/badge/-Rachit%20Saini-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+</div>
+
+## Github Stats:
 <p align="center">
-<a href="https://twitter.com/rachit_saini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachit_saini_" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/rachitsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachitsaini" height="50" width="50" /></a>
-<a href="https://instagram.com/_rachitsaini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rachitsaini_" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/rachitsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachitsaini" height="50" width="50" /></a>
+    <a href="https://github.com/rachitsaini">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rachitsaini&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachitsaini&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/rachitsaini">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsaini&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
 
+<p align="center">
+   <a href="https://github.com/rachitsaini"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsaini&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsainii&show_icons=true&locale=en" alt="rachitsainii" /></p>
+<br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsainii&" alt="rachitsainii" /></p>
+<div id="header" align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=rachitsaini&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsainii&show_icons=true&locale=en&layout=compact" alt="rachitsainii" /></p>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-
-
+#
