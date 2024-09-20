@@ -1,13 +1,10 @@
+<a href="https://rachitsainii.io">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="height: 400px; width: 1000px">
+</a>
+
 <div align="center">
   <h1>Hi 👋, I'm Rachit Saini </h1>
 </div>
-
-
-
-<div align="center" style="margin: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" style="max-width: 100%; height: 50%; margin: auto; display: block;"/>
-</div>
-
 
 ## About Me:
 - 🌱 I’m currently learning **React & React Native skills**.
