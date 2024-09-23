@@ -8,7 +8,7 @@
 
 ## About Me:
 - 🌱 I’m currently learning **React & React Native skills**.
-- 📖 MSCS from Cal State Fullerton (4.0 GPA).
+- 📖 Recently finished MSCS from Cal State Fullerton with a 4.0 GPA.
 - 🧑🏻‍💻Aspiring Full Stack Developer (currently focusing on frontend development).
 - Enjoy listening podcasts , playing games 👾, and sports ⚽️.
 -  📸 I am a casual photographer.
