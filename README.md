@@ -7,10 +7,9 @@
 </div>
 
 ## About Me:
-- 🌱 I’m currently learning **React & React Native skills**.
 - 📖 Recently finished MSCS from Cal State Fullerton with a 4.0 GPA.
 - 🧑🏻‍💻Aspiring Full Stack Developer (currently focusing on frontend development).
-- Enjoy listening podcasts , playing games 👾, and sports ⚽️.
+- Enjoy listening podcasts , playing video games 👾, and soccer ⚽️.
 -  📸 I am a casual photographer.
 
 ## Skill Set:
